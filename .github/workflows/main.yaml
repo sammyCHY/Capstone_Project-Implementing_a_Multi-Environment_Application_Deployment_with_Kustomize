@@ -61,4 +61,5 @@ jobs:
           kubectl get pods
           kubectl get services
 
-      # The total script
+      # The total script properly updated
+      
