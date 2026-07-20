@@ -60,3 +60,5 @@ jobs:
           kubectl get deployments
           kubectl get pods
           kubectl get services
+
+      # The total script
