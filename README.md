@@ -161,6 +161,12 @@ Task 9 (Advanced): Implement Transformers and Generators:
     - Clarity and completeness of documentation.
 
 
+
+![The Image here shows the successfull CICD deployment process.](image/CICD-deploy-eks.png)
+
+
+![The EKS cluster is running the container successful](image/pod-running-on-eks-cluster.png)
+
 4. Submission:
 
     - Submit your Project repository link.
